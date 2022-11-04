@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/Downloads/My Files/EN3030_Circuits_and_Systems_Design/Digital_Systems/EN3030_Circuits_and_Systems_Design/src/Adder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/Downloads/My Files/EN3030_Circuits_and_Systems_Design/Digital_Systems/EN3030_Circuits_and_Systems_Design/src/Full_Adder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Full_Adder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/Downloads/My Files/EN3030_Circuits_and_Systems_Design/Digital_Systems/EN3030_Circuits_and_Systems_Design/src/ALU.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/Downloads/My Files/EN3030_Circuits_and_Systems_Design/Digital_Systems/EN3030_Circuits_and_Systems_Design/src/Mux.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/User/Downloads/My Files/EN3030_Circuits_and_Systems_Design/Digital_Systems/EN3030_Circuits_and_Systems_Design/src/ALU_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_tb
